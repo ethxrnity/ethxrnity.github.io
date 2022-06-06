@@ -1,4 +1,4 @@
 ---
-permalink: index.htm
+permalink: index.html
 ---
 
